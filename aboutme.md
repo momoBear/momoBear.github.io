@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 關於我
 subtitle: 
 ---
 
@@ -8,3 +8,4 @@ subtitle:
 my github link  
 <a href="https://github.com/momoBear/momoBear.github.io" target="_blank">github</a>
 
+---
